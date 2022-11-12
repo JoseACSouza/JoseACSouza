@@ -1,5 +1,5 @@
 # José Alexandre Cordeiro Souza
-👋 Salve galera! me chamo [José Alexandre](https://www.linkedin.com/in/joseacs/), sou formado em Engenharia de Controle e Automação e atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/) 🚀
+👋 Salve galera! Me chamo [José Alexandre](https://www.linkedin.com/in/joseacs/), sou formado em Engenharia de Controle e Automação e atualmente estudo desenvolvimento web na [Trybe](https://www.betrybe.com/) 🚀
 
 "A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."
 
