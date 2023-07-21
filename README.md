@@ -11,6 +11,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 "Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where people only pay when they get a good job."
 
 The program has more than 1,500 hours of classroom and online classes, covers introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tecnologias aprendidas até agora: 
