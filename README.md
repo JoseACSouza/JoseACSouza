@@ -6,7 +6,7 @@
 O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-👋 Hail everyone! My name is [José Alexandre](https://www.linkedin.com/in/joseacs/), I have a degree in Control and Automation Engineering and currently I study web development at [Trybe](https://www.betrybe.com/) 🚀
+👋 Hi everyone! My name is [José Alexandre](https://www.linkedin.com/in/joseacs/), I have a degree in Control and Automation Engineering and currently I study web development at [Trybe](https://www.betrybe.com/) 🚀
 
 "Trybe is a school of the future for anyone who wants to improve their lives and build a successful career in technology, where people only pay when they get a good job."
 
